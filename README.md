@@ -1,2 +1,2 @@
-# OsedaxGenome
-Public repository for additional datasets for Osedax frankpressi hologenome study
+# Osedax Genome
+Public repository for additional datasets for Osedax frankpressi genome study
